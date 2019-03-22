@@ -1,3 +1,3 @@
 // write your code below!
 function happyHolidays() {return 'Happy holidays!'}
-function happyHolidaysTo(Happy holidays, script) {return '${Happy holidays}, ${script}!'}
+function happyHolidaysTo(name) {return 'Happy holidays, ${name}!'}
